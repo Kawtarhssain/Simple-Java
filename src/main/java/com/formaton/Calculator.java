@@ -2,7 +2,7 @@ package com.formaton;
 
 public class Calculator {
 	
-	public int add(int a, int b+1,) {
+	public int add(int a, int b,) {
 		return a+b;
 	}
 	
